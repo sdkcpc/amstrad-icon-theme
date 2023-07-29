@@ -1,0 +1,58 @@
+{
+    "name": "amstrad-icons-theme",
+    "displayName": "Amstrad icons theme",
+    "description": "Amstrad Icon Theme.",
+    "version": "0.0.1",
+	"scripts": {
+		"build": "npm run compile:dev && npm run generateJson"
+	},
+    "publisher": "destroyer",
+	"author": {
+		"name": "destroyer",
+		"email": "destroyer.dcf@gmail.com",
+		"url": "https://xxxx.github.io"
+	},
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "amstrad-icons-theme",
+                "label": "amstrad icons theme",
+                "path": "amstrad-icons-theme.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#007ACC",
+        "theme": "dark"
+    },
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"icons",
+		"theme",
+		"material",
+		"icon-theme",
+		"amstrad",
+        "cpc",
+        "6128",
+        "464",
+        "664"
+	],
+	"homepage": "https://github.com/PKief/vscode-material-icon-theme/blob/main/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tu-usuario/mi-extension.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tu-usuario/mi-extension/issues"
+    },
+    "icon": "logo.png",
+    "license": "MIT",
+    "dependencies": {
+        "vscode": "^1.1.37"
+    }
+}
