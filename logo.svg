@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.333333"
+     inkscape:cx="11.989865"
+     inkscape:cy="11.777027"
+     inkscape:window-width="3440"
+     inkscape:window-height="1381"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     style="fill:#ff0000;stroke-width:0.113797;stroke-miterlimit:5.2;paint-order:fill markers stroke"
+     id="rect3"
+     width="7.0432858"
+     height="18.470051"
+     x="2.7601736"
+     y="2.8393071"
+     ry="0"
+     transform="matrix(1,0,-0.11981333,0.99279644,0,0)" />
+  <rect
+     style="fill:#008000;stroke-width:0.113797;stroke-miterlimit:5.2;paint-order:fill markers stroke"
+     id="rect3-0"
+     width="6.9867826"
+     height="18.467216"
+     x="9.9868822"
+     y="2.8421414"
+     transform="matrix(1,0,-0.11981333,0.99279644,0,0)" />
+  <rect
+     style="fill:#0000ff;stroke-width:0.113797;stroke-miterlimit:5.2;paint-order:fill markers stroke"
+     id="rect3-6"
+     width="6.9867826"
+     height="18.467216"
+     x="17.144032"
+     y="2.8421414"
+     transform="matrix(1,0,-0.11981333,0.99279644,0,0)" />
+</svg>

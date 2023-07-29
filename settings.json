@@ -1,0 +1,137 @@
+
+{
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#FFFF00",
+        "terminal.background": "#054fd0",
+		"terminal.integrated.tabs.title": "CPC 6128",
+    },
+
+	"terminal.integrated.fontSize": 12,
+
+	// Grosor de fuente que se va a usar en el terminal para texto que no esté en negrita. Acepta las palabras clave "normal" y "bold" o números entre 1 y 1000.
+	"terminal.integrated.fontWeight": "normal",
+
+	// Grosor de fuente que se va a usar en el terminal para texto en negrita. Acepta las palabras clave "normal" y "bold" o números entre 1 y 1000.
+	"terminal.integrated.fontWeightBold": "bold",
+    // "terminal.integrated.fontFamily": "'Amstrad CPC464'",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.tabs.title": "CPC 6128",
+	// [Obtenga más información sobre la configuración de perfiles](https://code.visualstudio.com/docs/terminal/profiles).
+	// "terminal.integrated.profiles.linux": {
+	// 	"bash": {
+	// 		"path": "bash",
+	// 		"icon": "terminal-bash"
+	// 	},
+	// 	"zsh": {
+	// 		"path": "zsh"
+	// 	},
+	// 	"fish": {
+	// 		"path": "fish"
+	// 	},
+	// 	"tmux": {
+	// 		"path": "tmux",
+	// 		"icon": "terminal-tmux"
+	// 	},
+	// 	"pwsh": {
+	// 		"path": "pwsh",
+	// 		"icon": "terminal-powershell"
+	// 	}
+	// },
+
+	// // Conjunto de personalizaciones de perfil de terminal para Mac que permite agregar, quitar o cambiar la forma en que se inician los terminales. Los perfiles se componen de una ruta de acceso obligatoria, argumentos opcionales y otras opciones de presentación.
+	// // 
+	// // Para reemplazar un perfil existente, use su nombre de perfil como clave, por ejemplo: 
+	// // 
+	// // ```json
+	// // "terminal.integrated.profile.osx": {
+	// //   "bash": null
+	// // }
+	// // ```
+	// // 
+	// // [Obtenga más información sobre la configuración de perfiles](https://code.visualstudio.com/docs/terminal/profiles).
+	// "terminal.integrated.profiles.osx": {
+	// 	"bash": {
+	// 		"path": "bash",
+	// 		"args": [
+	// 			"-l"
+	// 		],
+	// 		"icon": "terminal-bash"
+	// 	},
+	// 	"zsh": {
+	// 		"path": "zsh",
+	// 		"args": [
+	// 			"-l"
+	// 		]
+	// 	},
+	// 	"fish": {
+	// 		"path": "fish",
+	// 		"args": [
+	// 			"-l"
+	// 		]
+	// 	},
+	// 	"tmux": {
+	// 		"path": "tmux",
+	// 		"icon": "terminal-tmux"
+	// 	},
+	// 	"pwsh": {
+	// 		"path": "pwsh",
+	// 		"icon": "terminal-powershell"
+	// 	}
+	// },
+
+	// // Conjunto de personalizaciones de perfil de terminal para Windows que permite agregar, quitar o cambiar la forma en que se inician los terminales. Los perfiles se componen de una ruta de acceso obligatoria, argumentos opcionales y otras opciones de presentación.
+	// // 
+	// // Para reemplazar un perfil existente, use su nombre de perfil como clave, por ejemplo: 
+	// // 
+	// // ```json
+	// // "terminal.integrated.profile.windows": {
+	// //   "bash": null
+	// // }
+	// // ```
+	// // 
+	// // [Obtenga más información sobre la configuración de perfiles](https://code.visualstudio.com/docs/terminal/profiles).
+	// "terminal.integrated.profiles.windows": {
+	// 	"PowerShell": {
+	// 		"source": "PowerShell",
+	// 		"icon": "terminal-powershell"
+	// 	},
+	// 	"Command Prompt": {
+	// 		"path": [
+	// 			"${env:windir}\\Sysnative\\cmd.exe",
+	// 			"${env:windir}\\System32\\cmd.exe"
+	// 		],
+	// 		"args": [],
+	// 		"icon": "terminal-cmd"
+	// 	},
+	// 	"Git Bash": {
+	// 		"source": "Git Bash"
+	// 	}
+	// },
+    // "code-runner.runInTerminal": true,
+    // "code-runner.executorMapByFileExtension": {
+    //     ".bas": "rrrr /c $fileName",
+    //     ".BAS": "rrrr /c $fileName",
+    // },
+    // "material-icon-theme.files.associations": {
+    //     "*.bas": "../../icons/scr"
+    // },
+    // "material-icon-theme.folders.associations": {
+    //     "src": "../../icons/scr"
+    // }
+}
+
+// {
+//     "[python]": {
+//         "editor.formatOnType": true
+//     },
+//     "files.autoSave": "afterDelay",
+//     "editor.fontFamily": "MesloLGS NF",
+//     "workbench.iconTheme": "material-icon-theme",
+//     "security.workspace.trust.untrustedFiles": "open",
+//     "terminal.integrated.localEchoStyle": "dim",
+//     "terminal.integrated.copyOnSelection": true,
+//     "terminal.integrated.fontWeight": "normal",
+//     "terminal.integrated.fontWeightBold": "bold",
+//     "editor.fontSize": 13,
+//     "terminal.integrated.fontFamily": "MesloLGS NF",
+// }

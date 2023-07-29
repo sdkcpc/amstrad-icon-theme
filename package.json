@@ -3,9 +3,6 @@
     "displayName": "Amstrad icons theme",
     "description": "Amstrad Icon Theme.",
     "version": "0.0.1",
-	"scripts": {
-		"build": "npm run compile:dev && npm run generateJson"
-	},
     "publisher": "destroyer",
 	"author": {
 		"name": "destroyer",
@@ -42,13 +39,13 @@
         "464",
         "664"
 	],
-	"homepage": "https://github.com/PKief/vscode-material-icon-theme/blob/main/README.md",
+	"homepage": "https://github.com/amstrad-sdk/icon-theme/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tu-usuario/mi-extension.git"
+        "url": "https://github.com/amstrad-sdk/icon-theme.git"
     },
     "bugs": {
-        "url": "https://github.com/tu-usuario/mi-extension/issues"
+        "url": "https://github.com/amstrad-sdk/icon-theme/issues"
     },
     "icon": "logo.png",
     "license": "MIT",
