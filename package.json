@@ -7,7 +7,7 @@
 	"author": {
 		"name": "destroyer",
 		"email": "destroyer.dcf@gmail.com",
-		"url": "https://xxxx.github.io"
+		"url": "https://github.com/amstrad-sdk/icon-theme.git"
 	},
     "engines": {
         "vscode": "^1.60.0"
