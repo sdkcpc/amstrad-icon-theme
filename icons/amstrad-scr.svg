@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="0 0 24 24"
    id="svg1"
-   sodipodi:docname="console_SCR.svg"
+   sodipodi:docname="amstrad-scr.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:zoom="49.333333"
      inkscape:cx="11.989865"
      inkscape:cy="13.966216"
-     inkscape:window-width="3382"
+     inkscape:window-width="3440"
      inkscape:window-height="1381"
-     inkscape:window-x="58"
+     inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
@@ -55,14 +55,14 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6334px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;stroke-width:1.56334">C</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8031px;line-height:0;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;stroke-width:1.68032"
-     x="-0.37944841"
-     y="15.122813"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9939px;line-height:0;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;stroke-width:1.6994"
+     x="-0.38375738"
+     y="14.948377"
      id="text1-9-5"
-     transform="scale(0.73091943,1.3681399)"><tspan
+     transform="scale(0.72271239,1.3836763)"><tspan
        sodipodi:role="line"
        id="tspan1-4-0"
-       x="-0.37944841"
-       y="15.122813"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.8031px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;stroke-width:1.68032">S</tspan></text>
+       x="-0.38375738"
+       y="14.948377"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9939px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;stroke-width:1.6994">S</tspan></text>
 </svg>

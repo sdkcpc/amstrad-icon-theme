@@ -17,7 +17,7 @@
             {
                 "id": "amstrad-icons-theme",
                 "label": "amstrad icons theme",
-                "path": "amstrad-icons-theme.json"
+                "path": "config/amstrad-icons-theme.json"
             }
         ]
     },

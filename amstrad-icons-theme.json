@@ -1,9 +1,0 @@
-{
-  "iconDefinitions": {
-    "bas-file-icon": "/icons/bas-file-icon.svg"
-  },
-  "fileExtensions": {
-    ".BAS": "bas-file-icon",
-    ".bas": "bas-file-icon"
-  }
-}
